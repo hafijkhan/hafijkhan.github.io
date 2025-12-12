@@ -1,0 +1,50 @@
+<!-- https://github.com/DenverCoder1/readme-typing-svg/ -->
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" viewBox="0 0 720 64" style="background-color: #00000000;" width="720px" height="64px">
+
+    
+                <path id="path0">
+                            <!-- Single line -->
+                                <animate id="d0" attributeName="d" begin="0s;d4.end" dur="6000ms" fill="remove" values="m0,32 h0 ; m0,32 h720 ; m0,32 h720 ; m0,32 h0" keyTimes="0;0.66666666666667;0.83333333333333;1"/>
+                    </path>
+    <text font-family="&quot;Ubuntu Mono&quot;, monospace" fill="#F70000" font-size="32" dominant-baseline="auto" x="50%" text-anchor="middle" letter-spacing="normal">
+        <textPath xlink:href="#path0">
+            Quick fox jumps nightly above wizard
+        </textPath>
+    </text>
+        <path id="path1">
+                            <!-- Single line -->
+                                <animate id="d1" attributeName="d" begin="d0.end" dur="6000ms" fill="remove" values="m0,32 h0 ; m0,32 h720 ; m0,32 h720 ; m0,32 h0" keyTimes="0;0.66666666666667;0.83333333333333;1"/>
+                    </path>
+    <text font-family="&quot;Ubuntu Mono&quot;, monospace" fill="#F70000" font-size="32" dominant-baseline="auto" x="50%" text-anchor="middle" letter-spacing="normal">
+        <textPath xlink:href="#path1">
+            Quick fox jumps nightly above wizard
+        </textPath>
+    </text>
+        <path id="path2">
+                            <!-- Single line -->
+                                <animate id="d2" attributeName="d" begin="d1.end" dur="6000ms" fill="remove" values="m0,32 h0 ; m0,32 h720 ; m0,32 h720 ; m0,32 h0" keyTimes="0;0.66666666666667;0.83333333333333;1"/>
+                    </path>
+    <text font-family="&quot;Ubuntu Mono&quot;, monospace" fill="#F70000" font-size="32" dominant-baseline="auto" x="50%" text-anchor="middle" letter-spacing="normal">
+        <textPath xlink:href="#path2">
+            Waltz, bad nymph, for quick jigs vex
+        </textPath>
+    </text>
+        <path id="path3">
+                            <!-- Single line -->
+                                <animate id="d3" attributeName="d" begin="d2.end" dur="6000ms" fill="remove" values="m0,32 h0 ; m0,32 h720 ; m0,32 h720 ; m0,32 h0" keyTimes="0;0.66666666666667;0.83333333333333;1"/>
+                    </path>
+    <text font-family="&quot;Ubuntu Mono&quot;, monospace" fill="#F70000" font-size="32" dominant-baseline="auto" x="50%" text-anchor="middle" letter-spacing="normal">
+        <textPath xlink:href="#path3">
+            Sphinx of black quartz, judge my vow
+        </textPath>
+    </text>
+        <path id="path4">
+                            <!-- Single line -->
+                                <animate id="d4" attributeName="d" begin="d3.end" dur="6000ms" fill="remove" values="m0,32 h0 ; m0,32 h720 ; m0,32 h720 ; m0,32 h0" keyTimes="0;0.66666666666667;0.83333333333333;1"/>
+                    </path>
+    <text font-family="&quot;Ubuntu Mono&quot;, monospace" fill="#F70000" font-size="32" dominant-baseline="auto" x="50%" text-anchor="middle" letter-spacing="normal">
+        <textPath xlink:href="#path4">
+            How vexingly quick daft zebras jump
+        </textPath>
+    </text>
+</svg>
