@@ -1,3 +1,4 @@
+[![Typing SVG](https://hafijkhan.github.io/svg/banner.svg)](https://hafijkhan.github.io/)
 # devfolio
 A simple, responsive, single-page portfolio and resume for developers built with Bulma, Sass, Font Awesome and Flickity.
 
